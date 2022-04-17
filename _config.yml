@@ -42,14 +42,14 @@ permalink: /:year/:month/:day/:title/
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  youtube: alpjoelee
-  email: 
+  twitter: alpjoelee
   facebook: alpjoelee
-  github: 
   instagram: alpjoel
+  email: 
+  github:
   linkedin: 
   rss: # just type anything here for a working RSS icon
-  twitter: alpjoelee
+  
 
 plugins:
   - jekyll-seo-tag
