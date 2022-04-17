@@ -42,7 +42,8 @@ permalink: /:year/:month/:day/:title/
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  email: alpjoelee@gmail.com
+  youtube: alpjoelee
+  email: 
   facebook: alpjoelee
   github: 
   instagram: alpjoel
