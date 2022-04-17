@@ -4,7 +4,7 @@ title: Original
 permalink: /original/
 ---
 
-### Sample Portfolio
+### Sample Original
 
 These are screencaps from Chungking Express
 
