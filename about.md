@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-# 关于作者
+## 关于作者
 
 * ### 一个随性的普通人
 * ### 
@@ -15,4 +15,4 @@ permalink: /about/
 
 ### 其他媒体
 
-[Youtube](https://www.youtube.com/channel/UCumWy1SB8Nw9EUCGre-gOyA）
+[Youtube](https://www.youtube.com/channel/UCumWy1SB8Nw9EUCGre-gOyA)
