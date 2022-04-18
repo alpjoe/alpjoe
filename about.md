@@ -4,12 +4,15 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+# 关于作者
 
-### More Information
+* ### 一个随性的普通人
+* ### 
 
-A place to include any other types of information that you'd like to include about yourself.
+生活中，总有很多想法。随着时间的推移，年龄的增长，愈加疯狂。
 
-### Contact me
+---
 
-[email@domain.com](mailto:email@domain.com)
+### 其他媒体
+
+[Youtube](https://www.youtube.com/channel/UCumWy1SB8Nw9EUCGre-gOyA）
