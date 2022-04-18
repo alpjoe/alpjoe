@@ -11,4 +11,5 @@ permalink: /original/
 
 
 面朝大海，春暖花开
+
 ![example]({{site.baseurl}}/assets/images/original/example.jpg)
