@@ -1,10 +1,8 @@
 ---
 layout: page
-title: About
+title: 关于作者
 permalink: /about/
 ---
-
-## 关于作者
 
 * ### 一个随性的普通人
 * ### 
