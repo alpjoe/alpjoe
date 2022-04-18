@@ -4,8 +4,11 @@ title: Original
 permalink: /original/
 ---
 
-### Sample Original
+### 原创音乐
+#### 一些作品的介绍
 
-These are screencaps from Chungking Express
+* 小时候的南门口
+* 时光
 
-![Chungking Express Screencap 1]({{site.baseurl}}/assets/images/original/example.jpg)
+面朝大海，春暖花卡
+![example]({{site.baseurl}}/assets/images/original/example.jpg)
