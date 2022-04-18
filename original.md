@@ -8,4 +8,4 @@ permalink: /original/
 
 These are screencaps from Chungking Express
 
-![Chungking Express Screencap 1]({{site.baseurl}}/assets/images/original/lei.jpg)
+![Chungking Express Screencap 1]({{site.baseurl}}/assets/images/original/example.jpg)
