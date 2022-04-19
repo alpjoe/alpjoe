@@ -12,11 +12,13 @@ permalink: /original/
 <audio id="audio" controls="" preload="none"><source id="mp3" src="音频地址">
 
 * 董小姐（cover）
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=110 src="//music.163.com/outchain/player?type=4&id=349941272&auto=1&height=90"></iframe>
 
 * 时光
+
 
 
 面朝大海，春暖花开
 
 ![example]({{site.baseurl}}/assets/images/original/example.jpg)
+
+<iframe src="//player.bilibili.com/player.html?aid=59317437&bvid=BV1Pt411G7qh&cid=103365806&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
