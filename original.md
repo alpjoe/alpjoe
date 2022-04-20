@@ -10,5 +10,6 @@ permalink: /original/
 </audio>  
 
 ![dongmen](/assets/images/original/dongmen.jpg "归州东门")   
+![nanmen](/assets/images/original/nanmen.jpg "归州南门")  
 
-![nanmen](/assets/images/original/nanmen.jpg "归州南门")
+[小时候的南门口（吉他伴奏demo版）](#####)
