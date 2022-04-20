@@ -11,5 +11,5 @@ permalink: /original/
 
 ![dongmen](/assets/images/original/dongmen.jpg "归州东门")   
 ![nanmen](/assets/images/original/nanmen.jpg "归州南门")  
-
+<img src="/assets/images/original/dongmen.jpg" alt="归州东门" width="500" height="300" align="bottom" />
 
