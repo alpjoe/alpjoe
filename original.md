@@ -7,7 +7,7 @@ permalink: /original/
 ### 作品介绍
 ---
 * ##### 小时候的南门口（吉他伴奏demo版）  
-<audio src="/assets/audio/" controls="controls">
+<audio src="/assets/audio/nanmen.mp3" controls="controls">
 </audio>  
 
 
