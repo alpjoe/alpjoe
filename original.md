@@ -1,6 +1,6 @@
 ---
 layout: page
-titel: 原创音乐
+title: 原创音乐
 permalink: /original/  
 ---
 ### 作品介绍
