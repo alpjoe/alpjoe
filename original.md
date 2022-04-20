@@ -10,5 +10,5 @@ permalink: /original/
 <audio src="/assets/audio/nanmen.mp3" controls="controls">
 </audio>  
 
-
+---
 ![example](/assets/images/original/example.jpg)
