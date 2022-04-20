@@ -10,5 +10,5 @@ permalink: /original/
 <audio src="/assets/audio/nanmen.mp3" controls="controls">
 </audio>  
 
----
-![example](/assets/images/original/example.jpg)
+![dongmen](/assets/images/original/dongmen.jpg"归州东门")  
+![nanmen](/assets/images/original/nanmen.jpg"归州南门")
