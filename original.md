@@ -11,5 +11,5 @@ permalink: /original/
 归州东门
 <img src="/assets/images/original/dongmen.jpg" alt="归州东门" width="500" height="300" align="bottom" />
 归州南门
-<img src="/assets/images/original/nanmen.jpg" alt="归州东门" width="500" height="300" align="bottom" />
+<img src="/assets/images/original/nanmen.jpg" alt="归州南门" width="500" height="300" align="bottom" />
 
