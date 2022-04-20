@@ -16,5 +16,5 @@ permalink: /about/
 
 ### 其他媒体
 
-*[Youtube](https://www.youtube.com/channel/UCumWy1SB8Nw9EUCGre-gOyA"我也是个伪log")*  
+*[Youtube](https://www.youtube.com/channel/UCumWy1SB8Nw9EUCGre-gOyA "我也是个伪log")*  
 
