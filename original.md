@@ -5,7 +5,7 @@ permalink: /original/
 ---
 ### 作品介绍<span id="home"></span>
 >电梯(点击抵达): [1.小时候的南门口(吉他伴奏demo版) ](#home) 
-> [2.时光 ](#sg)
+ [2.时光 ](#sg)
 ---
 * ##### 小时候的南门口(吉他伴奏demo版) 
 <audio src="/assets/audio/nanmen.mp3" controls="controls">
