@@ -5,7 +5,7 @@ permalink: /original/
 ---
 ### 作品介绍
 ---
-* ##### 小时候的南门口(吉他伴奏demo版) <span id="jump">标记</span>
+* ##### 小时候的南门口(吉他伴奏demo版) <span id="jump"></span>
 <audio src="/assets/audio/nanmen.mp3" controls="controls">
 </audio>  
 归州东门
