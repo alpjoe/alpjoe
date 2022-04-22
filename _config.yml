@@ -43,8 +43,8 @@ permalink: /:year/:month/:day/:title/
 # Includes an icon in the footer for each username you enter
 footer-links:
   twitter: alpjoelee
-  facebook: alpjoelee
-  instagram: alpjoel
+  facebook: 
+  instagram: 
   email: 
   github:
   linkedin: 
