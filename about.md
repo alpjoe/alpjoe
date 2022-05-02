@@ -10,11 +10,13 @@ permalink: /about/
 * ### 爱姑娘
 
 
-    眼中泪,心中事.梦中人,杯中酒.言中意,此间情.
+    眼中泪,心中事.  
+    梦中人,杯中酒.  
+    言中意,此间情.  
 
 ---
 
 ### 其他媒体
 
-*[Youtube](https://www.youtube.com/channel/UCumWy1SB8Nw9EUCGre-gOyA "我也是个伪log")*  
+*[Youtube📺](https://www.youtube.com/channel/UCumWy1SB8Nw9EUCGre-gOyA "我也是个伪log")*  
 
