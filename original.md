@@ -28,11 +28,11 @@ permalink: /original/
 那是记忆里一段美好的时光,毫无杂念,仅享受着创作的过程.
  
 
-归州东门
+归州东门👇
 
 <img src="/assets/images/original/dongmen.jpg" alt="归州东门" width="500" height="300" align="bottom" />
 
-归州南门
+归州南门👇
 
 <img src="/assets/images/original/nanmen.jpg" alt="归州南门" width="500" height="300" align="bottom" />
 
