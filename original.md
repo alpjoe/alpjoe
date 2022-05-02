@@ -6,14 +6,23 @@ permalink: /original/
 ### 作品介绍<span id="home"></span>
 
 直达电梯:   
-> [1.小时候的南门口(吉他伴奏demo版) ](#home)   
+> [1.小时候的南门口](#home)   
 
 > [2.时光 ](#sg)
 
 ---
-* ##### 小时候的南门口(吉他伴奏demo版) 
+* ##### 小时候的南门口  
 <audio src="/assets/audio/nanmen.mp3" controls="controls">
-</audio>  
+</audio>   
+
+[MV视频链接](https://www.bilibili.com/video/BV1iW411R7tw/)
+> 作曲:向曦
+> 作词:向曦
+> 演唱:向曦
+> 与好友 向曦 一同创作 在本素咖啡 
+> 那是记忆里一段美好的时光,没有杂念,享受着创作时的过程.
+ 
+
 归州东门
 
 <img src="/assets/images/original/dongmen.jpg" alt="归州东门" width="500" height="300" align="bottom" />
