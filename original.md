@@ -15,12 +15,17 @@ permalink: /original/
 <audio src="/assets/audio/nanmen.mp3" controls="controls">
 </audio>   
 
-[MV视频链接](https://www.bilibili.com/video/BV1iW411R7tw/)
-> 作曲:向曦
-> 作词:向曦
-> 演唱:向曦
-> 与好友 向曦 一同创作 在本素咖啡 
-> 那是记忆里一段美好的时光,没有杂念,享受着创作时的过程.
+[MV视频链接](https://www.bilibili.com/video/BV1iW411R7tw/)  
+
+作曲:向曦
+
+作词:向曦
+
+演唱:向曦
+
+与好友 向曦 一同创作 在本素咖啡 
+
+那是记忆里一段美好的时光,毫无杂念,仅享受着创作的过程.
  
 
 归州东门
